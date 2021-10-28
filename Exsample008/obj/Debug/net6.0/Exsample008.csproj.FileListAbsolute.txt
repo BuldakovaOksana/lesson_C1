@@ -1,0 +1,16 @@
+C:\Users\Евгений\Desktop\Examreles\Exsample008\bin\Debug\net6.0\Exsample008.exe
+C:\Users\Евгений\Desktop\Examreles\Exsample008\bin\Debug\net6.0\Exsample008.deps.json
+C:\Users\Евгений\Desktop\Examreles\Exsample008\bin\Debug\net6.0\Exsample008.runtimeconfig.json
+C:\Users\Евгений\Desktop\Examreles\Exsample008\bin\Debug\net6.0\Exsample008.dll
+C:\Users\Евгений\Desktop\Examreles\Exsample008\bin\Debug\net6.0\ref\Exsample008.dll
+C:\Users\Евгений\Desktop\Examreles\Exsample008\bin\Debug\net6.0\Exsample008.pdb
+C:\Users\Евгений\Desktop\Examreles\Exsample008\obj\Debug\net6.0\Exsample008.GlobalUsings.g.cs
+C:\Users\Евгений\Desktop\Examreles\Exsample008\obj\Debug\net6.0\Exsample008.csproj.AssemblyReference.cache
+C:\Users\Евгений\Desktop\Examreles\Exsample008\obj\Debug\net6.0\Exsample008.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Евгений\Desktop\Examreles\Exsample008\obj\Debug\net6.0\Exsample008.AssemblyInfoInputs.cache
+C:\Users\Евгений\Desktop\Examreles\Exsample008\obj\Debug\net6.0\Exsample008.AssemblyInfo.cs
+C:\Users\Евгений\Desktop\Examreles\Exsample008\obj\Debug\net6.0\Exsample008.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\Desktop\Examreles\Exsample008\obj\Debug\net6.0\Exsample008.dll
+C:\Users\Евгений\Desktop\Examreles\Exsample008\obj\Debug\net6.0\ref\Exsample008.dll
+C:\Users\Евгений\Desktop\Examreles\Exsample008\obj\Debug\net6.0\Exsample008.pdb
+C:\Users\Евгений\Desktop\Examreles\Exsample008\obj\Debug\net6.0\Exsample008.genruntimeconfig.cache
